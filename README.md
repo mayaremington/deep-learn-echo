@@ -7,4 +7,9 @@
 <img width="619" alt="image" src="https://user-images.githubusercontent.com/79233614/142086781-373d006c-b791-4411-b2f8-6b00c3e73389.png">
 
 
-For additional figures, check out this project's presentation slides!
+For additional figures, check out this project's [presentation slides](deep_learn_echo.pdf)!  
+
+
+**Jupyter notebooks:**  
+[1) Cleaning](1_deep_learn_echo_cleaning.ipynb)  
+[2) Modeling](2_deep_learn_echo_modeling.ipynb) 
